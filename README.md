@@ -3,7 +3,7 @@
 <img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/f813e782-be40-474c-beda-609075a236c7" />
 
 # 🧟 Resident Evil 3: Apocalypse Shadows  
-### Turkish Language Patch / Localization
+### Turkish Language Mods / Localization
 
 ![Status](https://img.shields.io/badge/Status-Stable%20Release-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Turkish-red)
@@ -16,7 +16,7 @@
 
 ## 🇹🇷 Hakkında
 
-**Resident Evil 3: Apocalypse Shadows – Turkish Patch**,  
+**Resident Evil 3: Apocalypse Shadows – Turkish ve HD Mod**,  
 RE3 için hazırlanmış yüksek kaliteli bir Türkçe dil yamasıdır.
 
 Amaç:
@@ -41,18 +41,11 @@ Amaç:
 
 1. **Yamayı indirin.**  
 2. İndirdiğiniz `.rar` arşivini çıkarın.  
-3. Çıkan dosyaları **RE3 oyun klasörüne** kopyalayın.  
+3. Çıkan dosyaları **Masaüstüne RE3 oyun klasörü oluşturup içine** kopyalayın.  
 4. Sorulursa, mevcut dosyaların üzerine yazılmasına izin verin.  
 5. Oyunu çalıştırın ve Türkçe olarak oynamaya başlayın. 🎮  
 
 > Öneri: Kurulumdan önce orijinal oyun dosyalarınızın yedeğini alın.
-
----
-
-## ❌ Kaldırma
-
-- Yedeklediğiniz orijinal dosyaları geri kopyalayın **veya**  
-- Oyun dosyalarını doğrulama / yeniden kurulum yöntemiyle geri yükleyin.
 
 ---
 
