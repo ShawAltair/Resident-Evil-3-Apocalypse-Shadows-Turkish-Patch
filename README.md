@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/f813e782-be40-474c-beda-609075a236c7" />
+
 # 🧟 Resident Evil 3: Apocalypse Shadows  
 ### Turkish Language Patch / Localization
 
