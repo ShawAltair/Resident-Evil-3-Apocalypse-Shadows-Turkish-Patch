@@ -9,70 +9,71 @@
   Resident Evil 3: Apocalypse Shadows – Turkish Patch
 ──────────────────────────────────────────────────────────────
 
-Author: altairshaw
-Project Type: Turkish Language Patch / Localization
-Game: Resident Evil 3: Nemesis
-Status: Stable Release
+GELİŞTİRİCİ: altairshaw
+PROJE TÜRÜ: Türkçe Dil Yaması / Lokalizasyon
+OYUN: Resident Evil 3: Nemesis
+DURUM: Kararlı Sürüm (Stable Release)
 
 
 =====================
- ABOUT THIS PATCH
+ BU YAMA HAKKINDA
 =====================
-Resident Evil 3: Apocalypse Shadows – Turkish Patch is a fan-made
-high quality Turkish language modification designed to bring a fully
-localized experience to Resident Evil 3 Nemesis while staying faithful
-to the original atmosphere, tone and story.
+Resident Evil 3: Apocalypse Shadows – Turkish Patch,
+Resident Evil 3 Nemesis için hazırlanmış yüksek kaliteli
+Türkçe dil yamadır.
 
-This patch provides clear, immersive and lore-friendly Turkish text
-for menus, UI elements, dialogues and in-game content.
-
-
-=====================
- FEATURES
-=====================
-• Full Turkish language support
-• Professional & lore-friendly translation
-• High quality menu and interface text
-• Clear readability and immersion focused
-• Faithful to original Resident Evil 3 tone
+Amacı; oyunun atmosferine ve orijinal ruhuna sadık kalarak,
+menülerde, arayüzde, diyaloglarda ve oyun içeriğinde net,
+akıcı ve oyuna uygun Türkçe deneyimi sunmaktır.
 
 
 =====================
- INSTALLATION
+ ÖZELLİKLER
 =====================
-1️⃣ Download the patch archive
-2️⃣ Extract all files from the .rar
-3️⃣ Copy the files into your Resident Evil 3 game directory
-4️⃣ Replace files if prompted
-5️⃣ Launch the game and enjoy Turkish!
+• Tam kapsamlı Türkçe dil desteği
+• Profesyonel ve hikâyeye uygun çeviriler
+• Yüksek kaliteli menü ve arayüz yazıları
+• Okunabilir ve atmosferi bozmayan çeviri
+• Orijinal Resident Evil 3 hissiyatına sadık
 
 
 =====================
- UNINSTALL
+ KURULUM
 =====================
-Simply restore your original backed-up files or verify game files.
+1️⃣ Yama dosyasını indirin
+2️⃣ .rar içindeki dosyaları çıkartın
+3️⃣ Dosyaları oyunun kurulu olduğu klasöre kopyalayın
+4️⃣ Gerekirse dosyaların üzerine yazılmasına izin verin
+5️⃣ Oyunu çalıştırın ve Türkçe keyfini yaşayın! 🇹🇷
 
 
 =====================
- IMPORTANT NOTES
+ KALDIRMA
 =====================
-• This is a fan-made translation patch
-• No original game files are included
-• This project is NOT affiliated with Capcom
-• Tested and confirmed working
+Orijinal dosyalarınızı geri yükleyebilir veya
+oyun dosyalarını doğrulayabilirsiniz.
 
 
 =====================
- CREDITS
+ ÖNEMLİ NOTLAR
 =====================
-Translation / Project Lead:
+• Bu proje tamamen hayran yapımıdır
+• Herhangi bir orijinal oyun dosyası içermez
+• CAPCOM ile resmi bir bağlantısı yoktur
+• Test edilmiş ve sorunsuz çalışmaktadır
+
+
+=====================
+ KREDİLER
+=====================
+Proje Lideri / Çeviri:
 altairshaw
 
 
 =====================
- CONTACT / SUPPORT
+ İLETİŞİM / DESTEK
 =====================
-If you encounter any issues, report via ModDB page comments.
+Sorun yaşarsanız ModDB sayfası üzerinden bildirin.
 
 
-Enjoy the experience! 🧟
+İyi oyunlar! 🧟
